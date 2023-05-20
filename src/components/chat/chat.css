@@ -1,0 +1,13 @@
+.chat{
+    flex: 2;
+}
+
+.chatInfo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    background-color: #5d5b8d;
+    padding: 10px;
+    color: lightgray;
+}
